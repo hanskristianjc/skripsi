@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 6c9fe36ca29a9874ca84ef6b41bfbab3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cylinder_2
+    100002: //RootNode
+    100004: Lampshade
+    100006: Lampshade_1
+    100008: LightBulb1
+    100010: main_tube
+    100012: PolyMesh_1
+    100014: PolyMesh_2
+    100016: PolyMesh_2_1
+    100018: Tube_1
+    100020: Tube_1-mirror
+    100022: Tube_1_1
+    100024: Tube_1_2
+    100026: Tube_1_3
+    100028: Tube_1_4
+    100030: Tube_1_5
+    100032: Tube_3-mirror
+    100034: Tube_3-mirror-mirror
+    400000: Cylinder_2
+    400002: //RootNode
+    400004: Lampshade
+    400006: Lampshade_1
+    400008: LightBulb1
+    400010: main_tube
+    400012: PolyMesh_1
+    400014: PolyMesh_2
+    400016: PolyMesh_2_1
+    400018: Tube_1
+    400020: Tube_1-mirror
+    400022: Tube_1_1
+    400024: Tube_1_2
+    400026: Tube_1_3
+    400028: Tube_1_4
+    400030: Tube_1_5
+    400032: Tube_3-mirror
+    400034: Tube_3-mirror-mirror
+    2300000: Cylinder_2
+    2300002: Lampshade
+    2300004: Lampshade_1
+    2300006: LightBulb1
+    2300008: main_tube
+    2300010: PolyMesh_1
+    2300012: PolyMesh_2
+    2300014: PolyMesh_2_1
+    2300016: Tube_1
+    2300018: Tube_1-mirror
+    2300020: Tube_1_1
+    2300022: Tube_1_2
+    2300024: Tube_1_3
+    2300026: Tube_1_4
+    2300028: Tube_1_5
+    2300030: Tube_3-mirror
+    2300032: Tube_3-mirror-mirror
+    3300000: Cylinder_2
+    3300002: Lampshade
+    3300004: Lampshade_1
+    3300006: LightBulb1
+    3300008: main_tube
+    3300010: PolyMesh_1
+    3300012: PolyMesh_2
+    3300014: PolyMesh_2_1
+    3300016: Tube_1
+    3300018: Tube_1-mirror
+    3300020: Tube_1_1
+    3300022: Tube_1_2
+    3300024: Tube_1_3
+    3300026: Tube_1_4
+    3300028: Tube_1_5
+    3300030: Tube_3-mirror
+    3300032: Tube_3-mirror-mirror
+    4300000: Cylinder_2
+    4300002: Lampshade
+    4300004: Lampshade_1
+    4300006: LightBulb1
+    4300008: main_tube
+    4300010: PolyMesh_1
+    4300012: PolyMesh_2
+    4300014: PolyMesh_2_1
+    4300016: Tube_1
+    4300018: Tube_1-mirror
+    4300020: Tube_1_1
+    4300022: Tube_1_2
+    4300024: Tube_1_3
+    4300026: Tube_1_4
+    4300028: Tube_1_5
+    4300030: Tube_3-mirror
+    4300032: Tube_3-mirror-mirror
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
